@@ -1,0 +1,2 @@
+Input an integer matrix of size 5×5, later add all the elements in its principal diagonal and output the sum.
+Write a program in C for the above problem
